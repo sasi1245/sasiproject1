@@ -1,0 +1,1 @@
+update table_name set balance=balance-transaction where ac/no=Y21CB045;
